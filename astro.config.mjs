@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "The Data Engineer's Handbook",
+      title: "Data Engineer's Handbook",
       social: {
         github: "https://github.com/sdairs/data_engineering_handbook",
       },
