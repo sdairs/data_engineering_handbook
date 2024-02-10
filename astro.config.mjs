@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       title: "Data Engineer's Handbook",
       social: {
-        github: "https://github.com/sdairs/data_engineering_handbook",
+        github: "https://github.com/sdairs/data_engineers_handbook",
       },
       sidebar: [
         { label: "Introduction", link: "/introduction" },
